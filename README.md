@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andrey-pouri
 - 📚 Buscando aprendizagem 
-- 🖥 -  Atulamente estuande de Eng. Softwr UTFP
+- 🖥 -  Atulamente estuande de Eng. Softwr UTFpr
 - 📫  andreyherick8@gmail.com    ou   herick.andrey
 
 <!---

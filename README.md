@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Andrey-pouri
-- 📚 Buscando aprendizagem em codigos 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📚 Buscando aprendizagem 
+- 🖥 -  Atulamente estuande de Eng. Softwr UTFP
+- 📫  andreyherick8@gmail.com    ou   herick.andrey
 
 <!---
 Andrey-pouri/Andrey-pouri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
